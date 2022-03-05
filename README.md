@@ -8,7 +8,7 @@
 <p align="center">
 <a href= "https://www.linkedin.com/in/proevgenii/"><img src="https://img.icons8.com/linkedin"/></a>
 <a href= "https://twitter.com/pro_evgenii"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://github.com/proevgenii/proevgenii/blob/main/CV.pdf"><img src="https://img.icons8.com/cv"/></a>
+<a href= "https://github.com/proevgenii/proevgenii/blob/main/Evgenii_Prosvirnin_CV.pdf"><img src="https://img.icons8.com/cv"/></a>
 </p>
 
 <!--
